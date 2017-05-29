@@ -1,1 +1,1 @@
-# lexsmirnov.github.com
+# lexsmirnov.github.io
